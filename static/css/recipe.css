@@ -163,9 +163,7 @@ label {
     flex-wrap: wrap;
     margin-left: 50px;
 }
-.recipe_list.active{
-    margin-right: 20px;
-}
+
 .recipe_list li {
     width: 230px;
     height: 350px;
